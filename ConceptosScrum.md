@@ -33,7 +33,7 @@ en el Sprint. La idea de dicha reunión es centrar al equipo en lo que salió bi
 debe mejorar para la próxima iteración. De ninguna manera se centra en lo que salió mal.
 
 # Artefactos:
-(Falta por definir)
+(Falta por definir))
 
 
 
