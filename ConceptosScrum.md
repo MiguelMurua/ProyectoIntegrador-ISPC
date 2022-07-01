@@ -1,12 +1,25 @@
+
 # ProyectoIntegrador-ISPC
+
 # Proyecto integrador
 
 
 # Conceptos en Scrum
+Scrum (n): Es un marco de trabajo a través
+del cual las personas pueden abordar
+problemas complejos adaptativos, a la vez
+que se entregan productos de forma
+eficiente y creativa con el máximo valor.
 
 
 # Ceremonias:
 # ¿Qué son las ceremonias en el SCRUM?
+
+Scrum (n): Es un marco de trabajo a través
+del cual las personas pueden abordar
+problemas complejos adaptativos, a la vez
+que se entregan productos de forma
+eficiente y creativa con el máximo valor. 
 
 **¿Cuáles son las ceremonias?**
 
@@ -40,6 +53,7 @@ debe mejorar para la próxima iteración. De ninguna manera se centra en lo que 
 
 
 # Roles:
+
 En la metodología Scrum podemos identificar tres roles principales: 
 
 ● Scrum Master
